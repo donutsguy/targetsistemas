@@ -1,1 +1,20 @@
 # targetsistemas
+Resposta da questão 1: 91
+
+Respostas da questão 3: 
+A) 9
+B) 128
+C) 49
+D) 100
+E) 13
+F) 20
+
+Resposta da questão 4:
+ Ligo o primeiro interruptor, espero 10 minutos até a lâmpada esquentar.
+ Desligo o primeiro interruptor e ligo o segundo interruptor. 
+ Vou verificar a primeira sala, caso a lâmpada esteja ligada o segundo interruptor esta conectado a essa lâmpada.  Caso a lâmpada esteja desligada e fria o terceiro interruptor esta conectado a essa lâmpada. Caso contrário essa lâmpada está conectada ao primeiro interruptor.
+ Desta forma conseguirei saber em qual interruptor a lâmpada da primeira sala está conectada. 
+ Caso esteja conectada no primeiro interruptor, eu não mexo nos interruptores e verifico a segunda sala seguindo os mesmos passos de verificação da primeira sala. 
+ Caso esteja conectada ao segundo interruptor eu ligo o terceiro interruptor e verifico a segunda sala seguindo os mesmos passos de verificação da primeira sala.
+ Caso esteja conectada ao terceiro interruptor eu não mexo nos interruptores e verifico a segunda sala seguindo os mesmos passos de verificação da primeira sala. 
+ Desta forma conseguirei saber onde a segunda lâmpada está conectada, sabendo onde duas lâmpadas estão conectadas, consigo saber onde a ultima está conectada também.
